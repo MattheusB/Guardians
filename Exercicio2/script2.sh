@@ -33,7 +33,72 @@ echo
     elif [ $S -le 0 ] ; then
     echo 1
     
+	fi
+
+	for i in $(seq 1 $N);do
+    sleep $S
+
+	ps aux | grep ^$P_USER > file.txt
+    
+   new_file=file.txt 
+
+
+
+	done
+
+CPU=0
+maior_CPU=0
+
+MEM=0
+maior_MEM=0
+
+
+valor=0
+
+
+    if [[ -s $new_file ]] ; then
+   
+
+ 
+        while read line;do
+            valor=$(echo $line | cut -d"$P_USER" -f2)
+            echo $valor
+
+
+            if [ $valor -gt $maior_CPU ] ; then
+              
+                  maior_CPU=$valor
+            fi
+            
+            CPU=$(echo "$CPU+$valor" | bc)
+
+            valor=$(echo $line | cut -d"$P_USER" -f3)
+
+            if [ $valor -gt $maior_MEM ] ; then
+
+                maior_MEM=$valor
+            fi
+
+            MEM=$(echo "$MEM+$valor" | bc)
+
+        done < file.txt
+
     fi
 
+
+
+echo "%CPU encontrado: $CPU"
+
+echo
+
+echo "Maior %CPU encontrado: $maior_CPU"
+
+echo
+
+echo "%MEM encontrada: $MEM"
+
+echo
+
+echo "Maior %MEM encontrada: $maior_MEM"
 
 
