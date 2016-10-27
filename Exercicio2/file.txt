@@ -1,0 +1,211 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.2 185524  4312 ?        Ss   12:38   0:04 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    12:38   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    12:38   0:00 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   12:38   0:00 [kworker/0:0H]
+root         7  0.1  0.0      0     0 ?        S    12:38   0:16 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    12:38   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S    12:38   0:00 [migration/0]
+root        10  0.0  0.0      0     0 ?        S    12:38   0:00 [watchdog/0]
+root        11  0.0  0.0      0     0 ?        S    12:38   0:00 [watchdog/1]
+root        12  0.0  0.0      0     0 ?        S    12:38   0:00 [migration/1]
+root        13  0.0  0.0      0     0 ?        S    12:38   0:01 [ksoftirqd/1]
+root        15  0.0  0.0      0     0 ?        S<   12:38   0:00 [kworker/1:0H]
+root        16  0.0  0.0      0     0 ?        S    12:38   0:00 [kdevtmpfs]
+root        17  0.0  0.0      0     0 ?        S<   12:38   0:00 [netns]
+root        18  0.0  0.0      0     0 ?        S<   12:38   0:00 [perf]
+root        19  0.0  0.0      0     0 ?        S    12:38   0:00 [khungtaskd]
+root        20  0.0  0.0      0     0 ?        S<   12:38   0:00 [writeback]
+root        21  0.0  0.0      0     0 ?        SN   12:38   0:00 [ksmd]
+root        22  0.0  0.0      0     0 ?        SN   12:38   0:01 [khugepaged]
+root        23  0.0  0.0      0     0 ?        S<   12:38   0:00 [crypto]
+root        24  0.0  0.0      0     0 ?        S<   12:38   0:00 [kintegrityd]
+root        25  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        26  0.0  0.0      0     0 ?        S<   12:38   0:00 [kblockd]
+root        27  0.0  0.0      0     0 ?        S<   12:38   0:00 [ata_sff]
+root        28  0.0  0.0      0     0 ?        S<   12:38   0:00 [md]
+root        29  0.0  0.0      0     0 ?        S<   12:38   0:00 [devfreq_wq]
+root        33  0.0  0.0      0     0 ?        S    12:38   0:01 [kswapd0]
+root        34  0.0  0.0      0     0 ?        S<   12:38   0:00 [vmstat]
+root        35  0.0  0.0      0     0 ?        S    12:38   0:00 [fsnotify_mark]
+root        36  0.0  0.0      0     0 ?        S    12:38   0:00 [ecryptfs-kthrea]
+root        52  0.0  0.0      0     0 ?        S<   12:38   0:00 [kthrotld]
+root        53  0.0  0.0      0     0 ?        S<   12:38   0:00 [acpi_thermal_pm]
+root        54  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        55  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        56  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        57  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        58  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        59  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        60  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        61  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        62  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        63  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        64  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        65  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        66  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        67  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        68  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        69  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        70  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        71  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        72  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        73  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        74  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        75  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        76  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        77  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root        85  0.0  0.0      0     0 ?        S<   12:38   0:00 [ipv6_addrconf]
+root        98  0.0  0.0      0     0 ?        S<   12:38   0:00 [deferwq]
+root        99  0.0  0.0      0     0 ?        S<   12:38   0:00 [charger_manager]
+root       135  0.0  0.0      0     0 ?        S    12:38   0:00 [scsi_eh_0]
+root       136  0.0  0.0      0     0 ?        S<   12:38   0:00 [scsi_tmf_0]
+root       137  0.0  0.0      0     0 ?        S    12:38   0:00 [scsi_eh_1]
+root       138  0.0  0.0      0     0 ?        S<   12:38   0:00 [scsi_tmf_1]
+root       140  0.0  0.0      0     0 ?        S    12:38   0:00 [scsi_eh_2]
+root       141  0.0  0.0      0     0 ?        S<   12:38   0:00 [scsi_tmf_2]
+root       143  0.0  0.0      0     0 ?        S    12:38   0:00 [scsi_eh_3]
+root       144  0.0  0.0      0     0 ?        S<   12:38   0:00 [scsi_tmf_3]
+root       145  0.0  0.0      0     0 ?        S    12:38   0:00 [scsi_eh_4]
+root       146  0.0  0.0      0     0 ?        S<   12:38   0:00 [scsi_tmf_4]
+root       147  0.0  0.0      0     0 ?        S<   12:38   0:00 [kpsmoused]
+root       148  0.0  0.0      0     0 ?        S    12:38   0:00 [scsi_eh_5]
+root       150  0.0  0.0      0     0 ?        S<   12:38   0:00 [scsi_tmf_5]
+root       156  0.0  0.0      0     0 ?        S<   12:38   0:00 [kfd_process_wq]
+root       157  0.0  0.0      0     0 ?        S<   12:38   0:00 [ttm_swap]
+root       160  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root       161  0.0  0.0      0     0 ?        S<   12:38   0:00 [bioset]
+root       164  0.0  0.0      0     0 ?        S<   12:38   0:00 [radeon-crtc]
+root       165  0.0  0.0      0     0 ?        S<   12:38   0:00 [radeon-crtc]
+root       167  0.0  0.0      0     0 ?        S<   12:38   0:00 [kworker/1:1H]
+root       168  0.0  0.0      0     0 ?        S<   12:38   0:00 [kworker/0:1H]
+root       192  0.0  0.0      0     0 ?        S    12:38   0:01 [jbd2/sda5-8]
+root       193  0.0  0.0      0     0 ?        S<   12:38   0:00 [ext4-rsv-conver]
+root       220  0.0  0.1  29244  2900 ?        Ss   12:38   0:01 /lib/systemd/systemd-journald
+root       225  0.0  0.0      0     0 ?        S    12:38   0:00 [kauditd]
+root       267  0.0  0.1  46244  2812 ?        Ss   12:38   0:01 /lib/systemd/systemd-udevd
+mattheus   355  0.0  0.1  14872  1856 ?        S    16:34   0:00 gnome-pty-helper
+mattheus   356  0.0  0.3  23212  5872 pts/0    Ss   16:34   0:00 /bin/bash
+systemd+   393  0.0  0.1 102384  2300 ?        Ssl  12:38   0:00 /lib/systemd/systemd-timesyncd
+mattheus   441  0.0  0.3  23208  5836 pts/18   Ss   16:36   0:00 /bin/bash
+mattheus   469  0.1  0.5  56792  9204 pts/18   S+   16:37   0:00 vi script2.sh
+root       479  0.0  0.0      0     0 ?        S<   12:38   0:00 [kvm-irqfd-clean]
+mattheus   501 17.4 15.3 1072020 252804 ?      Sl   16:37   2:11 /opt/google/chrome/chrome --type=renderer --enable-features=IncidentReportingModuleLoadAnalysis<SafeBrowsingIncidentReportingServiceFeatures,IncidentReportingSuspiciousModuleReporting<SafeBrowsingIncidentReportingServiceFeatures,LinuxObsoleteSystemIsEndOfTheLine<LinuxObsoleteSystemIsEndOfTheLine,WebFontsIntervention<WebFontsIntervention,brotli-encoding<BrotliEncoding --lang=pt-BR --force-fieldtrials=AppBannerTriggering/Aggressive/AutofillEnabled/Default/CaptivePortalInterstitial/Enabled/ChildAccountDetection/Disabled/*ChromeChannelStable/Enabled/*ClientSideDetectionModel/Model0/*DataReductionProxyConfigService/Enabled/EnableSessionCrashedBubbleUI/Enabled/*ExtensionDeveloperModeWarning/Default/*GFE/Default/InstanceID/Enabled/LinuxObsoleteSystemIsEndOfTheLine/EndOfLine/MaterialDesignDownloads/Enabled/PasswordBranding/Disabled/*PasswordGeneration/Disabled/*PasswordManagerSettingsMigration/Enable/ReportCertificateErrors/ShowAndPossiblySend/SHA1IdentityUIWarning/Enabled/SHA1ToolbarUIJanuary2016/Warning/SHA1ToolbarUIJanuary2017/Error/SSLCommonNameMismatchHandling/Enabled/*SafeBrowsingIncidentReportingService/Default/SafeBrowsingIncidentReportingServiceFeatures/WithSuspiciousModuleReporting/SafeBrowsingUnverifiedDownloads/DisableByParameterMostSbTypes2/*SafeBrowsingUpdateFrequency/Default/*SimpleCacheTrial/ExperimentYes2/SlimmingPaint/EnableSlimmingPaint/*UMA-Population-Restrict/normal/*UMA-Uniformity-Trial-1-Percent/group_95/*UMA-Uniformity-Trial-10-Percent/group_01/*UMA-Uniformity-Trial-100-Percent/group_01/*UMA-Uniformity-Trial-20-Percent/default/*UMA-Uniformity-Trial-5-Percent/group_06/*UMA-Uniformity-Trial-50-Percent/group_01/*WebFontsIntervention/Enabled/ --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=fetchDeferLateScripts=true,fetchIncreaseFontPriority=true,fetchIncreasePriorities=true --enable-pinch --num-raster-threads=1 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --disable-a
+root       511  0.3  0.0      0     0 ?        S    16:37   0:02 [kworker/1:2]
+root       526  0.0  0.0      0     0 ?        S<   12:38   0:00 [cfg80211]
+mattheus   569  0.0  0.3  23188  5920 pts/19   Ss   16:38   0:00 /bin/bash
+avahi      589  0.0  0.1  44920  2588 ?        Ss   12:38   0:00 avahi-daemon: running [mattheus-brito.local]
+root       590  0.6  0.0      0     0 ?        S    16:38   0:04 [kworker/0:1]
+root       591  0.0  0.1  28624  2624 ?        Ss   12:38   0:00 /lib/systemd/systemd-logind
+root       592  0.0  0.3 276468  5368 ?        Ssl  12:38   0:00 /usr/lib/accountsservice/accounts-daemon
+root       593  0.4  0.0      0     0 ?        S    16:38   0:02 [kworker/u4:3]
+root       601  0.0  0.0   4400  1244 ?        Ss   12:38   0:01 /usr/sbin/acpid
+root       609  0.0  0.2 337316  4032 ?        Ssl  12:38   0:00 /usr/sbin/ModemManager
+root       621  0.0  0.1  29016  2884 ?        Ss   12:38   0:00 /usr/sbin/cron -f
+message+   623  0.0  0.2  44372  4260 ?        Ss   12:38   0:06 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+avahi      638  0.0  0.0  44788    28 ?        S    12:38   0:00 avahi-daemon: chroot helper
+whoopsie   670  0.0  0.3 447724  6160 ?        Ssl  12:38   0:00 /usr/bin/whoopsie -f
+root       674  0.0  0.1 146080  2528 ?        Ssl  12:38   0:00 /usr/lib/snapd/snapd
+root       679  0.0  0.5 532028  8520 ?        Ssl  12:38   0:09 /usr/sbin/NetworkManager --no-daemon
+syslog     680  0.0  0.1 262692  2360 ?        Ssl  12:38   0:00 /usr/sbin/rsyslogd -n
+root       691  0.0  0.0  29880  1028 ?        Ss   12:38   0:00 /sbin/cgmanager -m name=systemd
+root       717  0.0  0.3 279068  5248 ?        Ssl  12:38   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root       741  0.0  0.2 350380  4820 ?        Ssl  12:38   0:00 /usr/sbin/lightdm
+root       777  0.0  0.2  44024  4724 ?        Ss   12:39   0:04 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root       818  1.4  2.1 302496 35920 tty7     Ssl+ 12:39   3:37 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root       856  0.0  0.1  15948  1656 tty1     Ss+  12:39   0:00 /sbin/agetty --noclear tty1 linux
+root       869  0.0  0.0  19472    88 ?        Ss   12:39   0:00 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+root       954  0.0  0.1  16124  1728 ?        S    12:39   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient-wlan1.pid -lf /var/lib/NetworkManager/dhclient-e29fbb8a-55c8-4aea-9bea-b484b30e8f76-wlan1.lease -cf /var/lib/NetworkManager/dhclient-wlan1.conf wlan1
+nobody     963  0.0  0.1  52936  3016 ?        S    12:39   0:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/var/run/NetworkManager/dnsmasq.pid --listen-address=127.0.1.1 --cache-size=0 --conf-file=/dev/null --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+root      1177  0.0  0.2 232372  4708 ?        Sl   12:39   0:00 lightdm --session-child 12 15
+mattheus  1192  0.0  0.1  45372  2888 ?        Ss   12:39   0:00 /lib/systemd/systemd --user
+mattheus  1194  0.0  0.0  65664   500 ?        S    12:39   0:00 (sd-pam)
+mattheus  1197  0.0  0.2  46648  4168 ?        Ss   12:39   0:00 /sbin/upstart --user
+mattheus  1274  0.0  0.1  32936  1788 ?        S    12:39   0:00 upstart-udev-bridge --daemon --user
+mattheus  1287  0.0  0.2  43864  3600 ?        Ss   12:39   0:04 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-okyeLTHmGn
+mattheus  1300  0.0  0.2  86356  3528 ?        Ss   12:39   0:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+mattheus  1338  0.0  0.0  32860   124 ?        S    12:39   0:01 upstart-dbus-bridge --daemon --system --user --bus-name system
+mattheus  1340  0.0  0.0  32860   124 ?        S    12:39   0:00 upstart-dbus-bridge --daemon --session --user --bus-name session
+mattheus  1341  0.0  0.4 205784  6664 ?        SLl  12:39   0:00 gnome-keyring-daemon --start --components ssh
+mattheus  1360  0.1  0.3 346240  6380 ?        Ssl  12:39   0:29 /usr/bin/ibus-daemon --daemonize --xim
+mattheus  1364  0.0  0.0  41484  1372 ?        S    12:39   0:00 upstart-file-bridge --daemon --user
+mattheus  1366  0.0  0.0 166784   352 ?        Ss   12:39   0:01 gpg-agent --homedir /home/mattheus/.gnupg --use-standard-socket --daemon
+mattheus  1370  0.0  0.4 348552  6944 ?        Sl   12:39   0:00 /usr/lib/gvfs/gvfsd
+mattheus  1379  0.0  0.3 406860  6160 ?        Sl   12:39   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+mattheus  1393  0.0  1.0 621952 18048 ?        Ssl  12:39   0:04 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+mattheus  1395  0.0  0.3 264724  4976 ?        Sl   12:39   0:00 /usr/lib/ibus/ibus-dconf
+mattheus  1396  0.0  1.0 577548 16848 ?        Sl   12:39   0:04 /usr/lib/ibus/ibus-ui-gtk3
+mattheus  1400  0.0  0.7 527856 13128 ?        Sl   12:39   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+mattheus  1412  0.0  1.1 717484 18700 ?        Ssl  12:39   0:03 /usr/lib/x86_64-linux-gnu/hud/hud-service
+mattheus  1414  0.0  1.3 954440 22084 ?        Ssl  12:39   0:01 /usr/lib/unity-settings-daemon/unity-settings-daemon
+mattheus  1419  0.0  0.2 338008  4224 ?        Ssl  12:39   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+mattheus  1421  0.0  0.4 707000  8208 ?        Ssl  12:39   0:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+mattheus  1427  0.0  1.4 739340 24176 ?        Ssl  12:39   0:07 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service
+mattheus  1430  0.0  0.1  42900  3060 ?        S    12:39   0:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+mattheus  1439  0.0  0.2 178776  4128 ?        Sl   12:39   0:00 /usr/lib/dconf/dconf-service
+mattheus  1458  0.0  0.3 206888  5148 ?        Sl   12:39   0:01 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+mattheus  1481  1.6  4.0 1213224 66220 ?       Ssl  12:39   4:14 compiz
+root      1491  0.0  0.4 347468  7156 ?        Ssl  12:39   0:00 /usr/lib/upower/upowerd
+mattheus  1543  0.0  0.2 188988  4772 ?        Sl   12:39   0:08 /usr/lib/ibus/ibus-engine-simple
+mattheus  1548  0.1  0.5 435344  9212 ?        S<l  12:39   0:28 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit     1549  0.0  0.1 183544  2548 ?        SNsl 12:39   0:00 /usr/lib/rtkit/rtkit-daemon
+mattheus  1554  0.0  0.3 354900  5744 ?        Ssl  12:39   0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+mattheus  1555  0.0  0.2 333868  4316 ?        Ssl  12:39   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+mattheus  1557  0.0  0.3 438148  5264 ?        Ssl  12:39   0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+mattheus  1559  0.0  0.5 1233768 9132 ?        Ssl  12:39   0:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+mattheus  1561  0.0  0.9 560996 15808 ?        Ssl  12:39   0:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+mattheus  1565  0.0  0.4 737944  7832 ?        Ssl  12:39   0:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+mattheus  1567  0.0  0.6 541084 10680 ?        Ssl  12:39   0:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+mattheus  1568  0.0  0.5 953360  9456 ?        Ssl  12:39   0:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+mattheus  1583  0.0  0.5 469672  8804 ?        Ssl  12:39   0:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+mattheus  1599  0.0  0.7 1236412 12060 ?       Sl   12:39   0:00 /usr/lib/evolution/evolution-source-registry
+colord    1627  0.0  0.3 301712  6524 ?        Ssl  12:39   0:00 /usr/lib/colord/colord
+mattheus  1638  0.0  2.3 1042940 38744 ?       Sl   12:39   0:09 nautilus -n
+mattheus  1639  0.0  0.6 422956  9968 ?        Sl   12:39   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+mattheus  1642  0.1  6.8 1313756 112372 ?      Sl   12:39   0:16 /usr/bin/gnome-software --gapplication-service
+mattheus  1644  0.0  1.2 870440 20368 ?        Sl   12:39   0:09 nm-applet
+mattheus  1650  0.0  0.8 570540 13792 ?        Sl   12:39   0:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+mattheus  1703  0.0  0.4 286012  7872 ?        Sl   12:39   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+mattheus  1706  0.0  2.7 856196 44920 ?        Sl   12:39   0:00 /usr/lib/evolution/evolution-calendar-factory
+root      1709  0.0  0.4 367736  7436 ?        Ssl  12:39   0:05 /usr/lib/udisks2/udisksd --no-debug
+root      1723  0.0  1.9 628720 31660 ?        Sl   12:39   0:01 /usr/lib/x86_64-linux-gnu/fwupd/fwupd
+mattheus  1725  0.0  0.4 403904  7704 ?        Sl   12:39   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+mattheus  1731  0.0  0.2 257824  4288 ?        Sl   12:39   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+mattheus  1736  0.0  0.2 259908  4236 ?        Sl   12:39   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+mattheus  1741  0.0  0.2 272104  4632 ?        Sl   12:39   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+mattheus  1747  0.0  0.3 362344  5808 ?        Sl   12:39   0:00 /usr/lib/gvfs/gvfsd-cdda --spawner :1.5 /org/gtk/gvfs/exec_spaw/0
+mattheus  1760  0.0  2.5 808128 41140 ?        Sl   12:39   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1706x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1706/2
+mattheus  1769  0.0  2.7 800700 45572 ?        Sl   12:39   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1706x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1706/3
+mattheus  1772  0.0  0.6 691284 10208 ?        Sl   12:39   0:00 /usr/lib/evolution/evolution-addressbook-factory
+mattheus  1779  0.0  0.3 348444  5196 ?        Sl   12:39   0:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.5 /org/gtk/gvfs/exec_spaw/1
+mattheus  1786  0.0  0.6 766808 11452 ?        Sl   12:39   0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx1772x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/1772/2
+mattheus  1797  0.0  0.3 351096  5168 ?        Sl   12:39   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.5 /org/gtk/gvfs/exec_spaw/2
+mattheus  1854  0.0  0.7 494796 12132 ?        Sl   12:39   0:01 zeitgeist-datahub
+mattheus  1861  0.0  0.0   4508   700 ?        S    12:39   0:00 /bin/sh -c /usr/lib/x86_64-linux-gnu/zeitgeist/zeitgeist-maybe-vacuum; /usr/bin/zeitgeist-daemon
+mattheus  1865  0.0  0.3 410200  6196 ?        Sl   12:39   0:00 /usr/bin/zeitgeist-daemon
+mattheus  1872  0.0  0.5 317184  9664 ?        Sl   12:39   0:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+mattheus  2134  0.0  0.9 516708 14932 ?        Sl   12:40   0:00 update-notifier
+mattheus  2214  0.0  0.4 435960  7660 ?        Sl   12:41   0:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+mattheus  2240  0.0  0.2  61724  4756 ?        S    12:42   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+root      2502  0.0  0.3 274820  5872 ?        Ssl  12:43   0:00 /usr/sbin/cups-browsed
+mattheus  2779  0.0  0.3 427192  5516 ?        Sl   12:46   0:00 /usr/lib/gvfs/gvfsd-network --spawner :1.5 /org/gtk/gvfs/exec_spaw/7
+mattheus  2785  0.0  0.4 810296  7452 ?        Sl   12:46   0:00 /usr/lib/gvfs/gvfsd-smb-browse --spawner :1.5 /org/gtk/gvfs/exec_spaw/8
+mattheus  2868  0.0  0.3 435744  5476 ?        Sl   12:47   0:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.5 /org/gtk/gvfs/exec_spaw/9
+root      5320  0.5  0.0      0     0 ?        S    16:48   0:00 [kworker/u4:0]
+mattheus  5916  0.0  0.1  12564  3216 pts/0    S+   16:50   0:00 /bin/bash ./script2.sh
+mattheus  5919  0.0  0.2  37404  3312 pts/0    R+   16:50   0:00 ps aux
+mattheus  5920  0.0  0.0  14252  1028 pts/0    S+   16:50   0:00 grep ^
+mattheus 10301  0.2  0.5  56680  9200 pts/19   S+   16:41   0:01 vi script2.sh
+mattheus 31837  0.0  0.3 186268  5636 ?        Sl   13:12   0:00 /usr/lib/gvfs/gvfsd-metadata
+root     32010  0.1  0.0      0     0 ?        S    13:50   0:11 [kworker/0:0]
+root     32228  0.0  0.0      0     0 ?        S    14:42   0:02 [kworker/1:0]
+root     32526  0.4  0.0      0     0 ?        S    16:01   0:13 [kworker/u4:2]
+root     32638  0.2  0.0      0     0 ?        S    16:33   0:02 [kworker/u4:1]
+mattheus 32646  4.2  8.7 995032 143576 ?       Sl   16:34   0:39 /opt/google/chrome/chrome
+mattheus 32655  0.0  0.0   7456   696 ?        S    16:34   0:00 cat
+mattheus 32656  0.0  0.0   7456   776 ?        S    16:34   0:00 cat
+mattheus 32659  0.0  2.9 359888 48464 ?        S    16:34   0:00 /opt/google/chrome/chrome --type=zygote
+mattheus 32661  0.0  0.5 142108  9360 ?        S    16:34   0:00 /opt/google/chrome/nacl_helper
+mattheus 32662  2.2  3.7 786352 61876 ?        Sl   16:34   0:21 /usr/bin/python /usr/bin/x-terminal-emulator
+mattheus 32665  0.0  0.6 359888 11028 ?        S    16:34   0:00 /opt/google/chrome/chrome --type=zygote
+mattheus 32747  3.3  5.7 500180 93756 ?        Sl   16:34   0:30 /opt/google/chrome/chrome --type=gpu-process --channel=32646.0.1413227250 --window-depth=24 --supports-dual-gpus=false --gpu-driver-bug-workarounds=4,5,19,26,34,49,53 --disable-accelerated-video-decode --gpu-vendor-id=0x1002 --gpu-device-id=0x9802 --gpu-driver-vendor=Mesa --gpu-driver-version=11.2.0 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
